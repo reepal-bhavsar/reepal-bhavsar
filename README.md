@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reepal-bhavsar
-- 👀 I’m interested in creating new projects regarding php
-- 🌱 I’m currently starting to learn symfony and laravel
-- 💞️ I’m looking to collaborate on different chellenging projects for core php
+- 👀 I’m interested in creating new projects regarding php and web development
+- 🌱 Currently I am enhancing my skills through Laravel, Typescript and other technologies
+- 💞️ I’m looking to collaborate on different chellenging projects for core php and web development
 - 📫 Reach me @ reepal231994@gmail.com
 
 <!---
